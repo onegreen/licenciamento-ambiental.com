@@ -1,0 +1,33 @@
+/* It is recommended to place all your extra/additional CSS rules here */
+.logo
+{
+  color: #4dd965;
+}
+.logo .one
+{
+  letter-spacing: -1px;
+  font-weight: 200;
+}
+.logo .green
+{
+  font-weight: bolder;
+  letter-spacing: -2px;
+}
+.logo-large
+{
+  font-size: xx-large;
+}
+.logo-large .one
+{
+  letter-spacing: -2px;
+}
+.logo-large .green
+{
+  letter-spacing: -3px;
+}
+
+.bottom-content
+{
+	bottom:auto;
+	bottom:16%;
+}
